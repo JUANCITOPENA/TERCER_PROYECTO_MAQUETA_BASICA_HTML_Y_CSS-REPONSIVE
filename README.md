@@ -7,6 +7,8 @@ Este proyecto es una maqueta básica de una página web con capacidad de respues
 - **index.html**: Archivo HTML principal que representa la estructura básica de la página web con etiquetas semánticas y diseño responsive.
 - **css/**: Carpeta que contiene la hoja de estilo (`style.css`) para estilizar la página HTML.
 - **imagen/**: Carpeta que contiene imágenes utilizadas en la página, como el logotipo y capturas de pantalla.
+- 
+## Link del Proyecto: https://juancitopena.github.io/TERCER_PROYECTO_MAQUETA_BASICA_HTML_Y_CSS-REPONSIVE/
 
 ## Estructura de la Página
 
